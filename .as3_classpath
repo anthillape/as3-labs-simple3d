@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AS3Classpath>
+<AS3Classpath generateProblems="true" type="source" useAsSharedCode="false">src</AS3Classpath>
+<AS3Classpath generateProblems="true" type="source" useAsSharedCode="false">mohu_lib</AS3Classpath>
+<AS3Classpath generateProblems="true" type="source" useAsSharedCode="false">labs_lib</AS3Classpath>
+<AS3Classpath generateProblems="false" type="lib" useAsSharedCode="false">HelveticaBold.swc</AS3Classpath>
+</AS3Classpath>

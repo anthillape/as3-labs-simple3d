@@ -1,0 +1,1 @@
+package com.studiomohu.labs.simplepoint3d {	/**	 * @author art	 */	public class VarsVO 	{		public var focalDepth : Number = 200;		public var radius : Number = 2;	}}
